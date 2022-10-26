@@ -2,7 +2,8 @@
 module.exports = {
   content: [
     "./public/index.html",
-    "./src/**/*.{html,js,vue"],
+    "./src/**/*.{html,js,vue}"
+  ],
   theme: {
     extend: {},
     colors: {
@@ -18,6 +19,8 @@ module.exports = {
       'dark-500': '#0F4F0F',
       'dark-600': '#0F360F',
       'dark-700': '#091909',
+
+      'glass': 'rgba(15, 79, 15, 0.3)'
     },
     fontFamily: {
       sans: ['Inter', 'sans-serif'],
