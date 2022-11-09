@@ -1,6 +1,6 @@
 <template>
     <header
-        class="w-full bg-glass backdrop-blur-sm fixed"
+        class="w-full bg-glass backdrop-blur-sm fixed z-10"
     >
         <div class="flex items-center justify-between py-4 px-32">
             <img 
